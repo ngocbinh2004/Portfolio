@@ -78,23 +78,23 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Frontend project",
+    title: "Imroz Layout",
     description: "Web Design",
     bgImage: "/work-1.png",
   },
   {
-    title: "Geo based app",
-    description: "Mobile App",
+    title: "Movie Ticket",
+    description: "Web Design",
     bgImage: "/work-2.png",
   },
   {
-    title: "Photography site",
+    title: "Capstone_Tailwind",
     description: "Web Design",
     bgImage: "/work-3.png",
   },
   {
-    title: "UI/UX designing",
-    description: "UI/UX Design",
+    title: "Vexa-landing-sass",
+    description: "Web Design",
     bgImage: "/work-4.png",
   },
 ];
@@ -133,7 +133,8 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: "Languages",
-    description: "HTML, CSS, JavaScript React Js, Next Js",
+    description:
+      "HTML, CSS,Bootstrap, Tailwind, SASS, JavaScript, React Js, Next Js",
   },
   {
     icon: assets.edu_icon,

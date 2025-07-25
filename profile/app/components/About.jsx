@@ -54,11 +54,11 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe
-            commodi velit dolore? Minus, dicta incidunt amet ut perspiciatis,
-            exercitationem facere repudiandae tempore quis, ullam omnis
-            provident! Hic dolor inventore modi!
-          </p>
+            Welcome to my portfolio! I'm a last year Software Engineering
+            student  Van Lang University 🎓 I love building web and app
+            projects⭐ When I'm not clicking on virtual heads 🎮 <br /> and
+            improving myself 💪🏼, I dive into the engineering rabbit hole 🕳️.{" "}
+          </p>{" "}
           <motion.ul
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
@@ -85,7 +85,6 @@ const About = ({ isDarkMode }) => {
               </motion.li>
             ))}
           </motion.ul>
-
           <motion.h4
             initial={{ y: 20, opacity: 0 }}
             whileInView={{ y: 0, opacity: 1 }}
@@ -94,7 +93,6 @@ const About = ({ isDarkMode }) => {
           >
             Tools I use
           </motion.h4>
-
           <motion.ul
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}

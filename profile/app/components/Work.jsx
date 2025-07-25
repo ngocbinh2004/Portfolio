@@ -35,10 +35,8 @@ const Work = ({ isDankMode }) => {
         transition={{ delay: 0.7, duration: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam veniam
-        nisi sit aliquam numquam officia sapiente! Et aut exercitationem dolorem
-        architecto modi corporis rerum, ipsam nihil perspiciatis, ducimus
-        repudiandae nobis.
+        Welcome to my web development portfolio! Explore a collection of
+        projects showcasing my expertise in front-end development.
       </motion.p>
 
       <motion.div

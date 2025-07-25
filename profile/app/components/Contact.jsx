@@ -62,9 +62,8 @@ const Contact = () => {
         transition={{ delay: 0.7, duration: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
       >
-        I take pride in delivering quality work that reflects both creativity
-        and precision. Here are some of the most recent projects that showcase
-        my skills and passion for frontend development.
+        I'd love to hear from you! If you have any questions, comments, or
+        feedback.
       </motion.p>
 
       <motion.form
